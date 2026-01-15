@@ -1,5 +1,7 @@
 # Group 16 : Traffic Analysis Dashboard
 
+<img src="Dashboard/Authority Analysis.png" alt="Image of Prototype Data Visualization Dashboard" width="200">
+
 ## File Roles
 
 * Raw Data: `traffic.csv`

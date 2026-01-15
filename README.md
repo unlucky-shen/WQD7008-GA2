@@ -38,10 +38,14 @@ uv add streamlit numpy pandas pyarrow statsmodels plotly
 ```
 git clone https://github.com/unlucky-shen/WQD7008-GA2.git
 ```
-2. Setup a Python Virtual environment with packages stated above.
-3. Make sure `.parquet` data file is in the same directory as the virtual environment.
-4. Activate the python environment
-5. To run the dashboard locally on your device, run 
+2. Navigate into the repo,
+```
+cd WQD7008-GA2/
+```
+3. Setup a Python Virtual environment with packages stated above.
+4. Make sure `.parquet` data file is in the same directory as the virtual environment.
+5. Activate the python environment
+6. To run the dashboard locally on your device, run 
 ```
 streamlit run demo.py
 ``` 
@@ -52,4 +56,4 @@ uv run streamlit run demo.py
 ``` 
 straight away in the terminal if you are using uv-astral.
 
-6. Dashboard will pop up in your default browser.
+7. Dashboard will pop up in your default browser.

@@ -1,4 +1,4 @@
-# GROUP 16 : TRAFFIC ANALYSIS DASHBOARD
+# Group 16 : Traffic Analysis Dashboard
 
 ## Files
 

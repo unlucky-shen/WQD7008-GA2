@@ -59,3 +59,8 @@ uv run streamlit run demo.py
 straight away in the terminal if you are using uv-astral.
 
 7. Dashboard will pop up in your default browser.
+
+## Suggestions for Improvement in Scalability and performance
+
+- [ ] More verbose PySpark script for more fine-tuned data pre-processing
+- [ ] Port to a more modern programming language such as Rust for better performance and reduced resource usage.

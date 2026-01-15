@@ -1,6 +1,6 @@
 # Group 16 : Traffic Analysis Dashboard
 
-<img src="Dashboard/Authority Analysis.png" alt="Image of Prototype Data Visualization Dashboard" width="200">
+![Image of Prototype Data Visualization Dashboard](Dashboard/Traffic Density Analysis.png)
 
 ## File Roles
 

@@ -1,6 +1,6 @@
 # Group 16 : Traffic Analysis Dashboard
 
-![Image of Prototype Data Visualization Dashboard](Dashboard/Traffic Density Analysis.png)
+![Traffic Analysis](Dashboard/Traffic%20Density%20Analysis.png)
 
 ## File Roles
 

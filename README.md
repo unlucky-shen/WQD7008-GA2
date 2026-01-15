@@ -1,4 +1,4 @@
-# Group 16 : Traffic Analysis Dashboard
+# WQD7008 - Group 16 Dashboard Documentation
 
 ![Traffic Analysis](Dashboard/Traffic%20Density%20Analysis.png)
 

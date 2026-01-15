@@ -1,5 +1,13 @@
 # GROUP 16 : TRAFFIC ANALYSIS DASHBOARD
 
+## Files
+
+* Raw Data: `traffic.csv`
+* Spark-Processed Data: `part-00000-cb8e687c-aeb8-4716-8c68-5061bd34f1b3-c000.snappy.parquet` 
+* Spark Script:
+* Data Dashboard Source Code: 
+
+
 ## Tools
 #### 1. Amazon Web Service
 

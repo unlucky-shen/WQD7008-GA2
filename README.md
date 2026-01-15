@@ -2,6 +2,7 @@
 
 ### Tools
 #### Amazon Web Service
+
     * Storage & Data Lake: S3
     * EMR on EC2 Cluster
     * Data Processing: Apache Spark
@@ -10,11 +11,14 @@
     * Data Format: Apache Parquet (Snappy Compressed)
 
 #### Application Layer (Data Visualization Dashboard)
-Python was used for the application layer using streamlit library.
+
+Python was used for the application layer using **streamlit** library.
+
     * Packages used,
     ```
     pip install streamlit numpy pandas pyarrow statsmodels plotly
     ```
+
     * Or using uv-astral,
     ```
     uv add streamlit numpy pandas pyarrow statsmodels plotly
